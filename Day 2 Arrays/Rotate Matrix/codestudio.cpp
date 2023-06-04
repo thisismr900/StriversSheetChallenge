@@ -1,5 +1,5 @@
 #include<vector>
-
+ 
 void rotateMatrix(vector<vector<int>> &mat){
 	//transpose the original matrix
 	int  n=mat.size();
